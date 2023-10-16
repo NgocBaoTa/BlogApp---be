@@ -29,19 +29,53 @@ def get_post_by_id(post_id):
 @post.route('/', methods=["POST"])
 @login_required
 def create_post():
-    pass
+    try:
+        inserted_id = db.Post.insert_one(request.json).inserted_id
+        return jsonify(db.Post.find_one({"_id": ObjectId(inserted_id)})), 200 
+    except Exception as e:
+        return jsonify(str(e)), 400  
 
 
 @post.route('/<int:post_id>', methods=['PUT'])
 @login_required
 def update_post(post_id):
-    pass
+    post_id = ObjectId(post_id)
+    try:   
+        post = db.Post.find_one({"_id": post_id})
+        if post:
+            if current_user.userType == 'admin' or current_user._id == post["authorID"]:
+                try: 
+                    db.Post.update_one({"_id": post_id}, request.json)
+                    return jsonify(db.Post.find_one({"_id": post_id})), 200
+                except Exception as e:
+                    return jsonify(str(e)), 400
+            else:
+                return jsonify({"message": "Unauthorized to update this post."}), 403  
+        else:
+            return jsonify({"message": "Post not found."}), 400
+    except Exception as e:
+        return jsonify(str(e)), 400 
     
 
 @post.route('/<int:post_id>', methods=['DELETE'])
 @login_required
 def delete_post(post_id):
-    pass
+    post_id = ObjectId(post_id)
+    try:   
+        post = db.Post.find_one({"_id": post_id})
+        if post:
+            if current_user.userType == 'admin' or current_user._id == post["authorID"]:
+                try: 
+                    db.Post.delete_one({"_id": post_id}, request.json)
+                    return jsonify({"message": "Post deleted."}), 200
+                except Exception as e:
+                    return jsonify(str(e)), 400
+            else:
+                return jsonify({"message": "Unauthorized to delete this post."}), 403  
+        else:
+            return jsonify({"message": "Post not found."}), 400
+    except Exception as e:
+        return jsonify(str(e)), 400 
 
 
 @post.route('/', methods=['GET'])
