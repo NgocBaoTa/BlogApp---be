@@ -92,7 +92,7 @@ def delete_notification(notification_id):
                 except Exception as e:
                     return jsonify(str(e)), 400
             else:
-                return jsonify({"message": "Unauthorized to update this media."}), 403  
+                return jsonify({"message": "Unauthorized to delete this notification."}), 403  
         else:
             return jsonify({"message": "Notification not found."}), 400
     except Exception as e:

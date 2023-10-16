@@ -36,7 +36,7 @@ def create_category():
         except Exception as e:
             return jsonify(str(e)), 400 
     else:
-        return jsonify({"message": "Unauthorized to update this media."}), 403  
+        return jsonify({"message": "Unauthorized to create category."}), 403  
 
 
 
@@ -58,7 +58,7 @@ def update_category(category_id):
         except Exception as e:
             return jsonify(str(e)), 400
     else:
-        return jsonify({"message": "Unauthorized to update this media."}), 403  
+        return jsonify({"message": "Unauthorized to update this category."}), 403  
     
 
 @category.route('/<int:category_id>', methods=['DELETE'])
@@ -79,4 +79,4 @@ def delete_category(category_id):
         except Exception as e:
             return jsonify(str(e)), 400
     else:
-        return jsonify({"message": "Unauthorized to update this media."}), 403  
+        return jsonify({"message": "Unauthorized to delete this category."}), 403  

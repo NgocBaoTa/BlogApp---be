@@ -89,14 +89,14 @@ def delete_media(media_id):
                 else:
                     try: 
                         db.media.delete_one({"_id": media_id})
-                        return jsonify({"message": "media deleted."}), 200
+                        return jsonify({"message": "Media deleted."}), 200
                     except Exception as e:
                         return jsonify(str(e)), 400
                     
             except Exception as e:
                 return jsonify(str(e)), 400
         else:
-            return jsonify({"message": "media not found."}), 400
+            return jsonify({"message": "Media not found."}), 400
     except Exception as e:
         return jsonify(str(e)), 400
 

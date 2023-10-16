@@ -21,7 +21,7 @@ def get_comment_by_id(comment_id):
         if comment:
             return jsonify(comment), 200
         else:
-            return jsonify({"message": "comment not found."}), 400
+            return jsonify({"message": "Comment not found."}), 400
     except Exception as e:
         return jsonify(str(e)), 400
     
@@ -51,7 +51,7 @@ def update_comment(comment_id):
                 except Exception as e:
                     return jsonify(str(e)), 400
             else:
-                return jsonify({"message": "Unauthorized to update this media."}), 403  
+                return jsonify({"message": "Unauthorized to update this comment."}), 403  
         else:
             return jsonify({"message": "Comment not found."}), 400
     except Exception as e:
@@ -68,13 +68,13 @@ def delete_comment(comment_id):
             if current_user._id == comment["userID"] or current_user.userType == 'admin':
                 try: 
                     db.Comment.delete_one({"_id": comment_id})
-                    return jsonify({"message": "comment deleted."}), 200
+                    return jsonify({"message": "Comment deleted."}), 200
                 except Exception as e:
                     return jsonify(str(e)), 400
             else:
-                return jsonify({"message": "Unauthorized to update this media."}), 403  
+                return jsonify({"message": "Unauthorized to delete this comment."}), 403  
         else:
-            return jsonify({"message": "comment not found."}), 400
+            return jsonify({"message": "Comment not found."}), 400
     except Exception as e:
         return jsonify(str(e)), 400
 

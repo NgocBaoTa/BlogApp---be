@@ -15,7 +15,7 @@ def get_users():
         except Exception as e:
             return jsonify(str(e)), 400
     else: 
-        return jsonify({"message": "Unauthorized to update this media."}), 403
+        return jsonify({"message": "Unauthorized to get all users."}), 403
     
 
 @user.route('/<int:user_id>', methods=['GET'])
@@ -25,7 +25,7 @@ def get_user_by_id(user_id):
         if user:
             return jsonify(user), 200
         else:
-            return jsonify({"message": "user not found."}), 400
+            return jsonify({"message": "User not found."}), 400
     except Exception as e:
         return jsonify(str(e)), 400
 
@@ -44,9 +44,9 @@ def update_user(user_id):
                 except Exception as e:
                     return jsonify(str(e)), 400
             else:
-                return jsonify({"message": "Unauthorized to update this media."}), 403  
+                return jsonify({"message": "Unauthorized to update this user."}), 403  
         else:
-            return jsonify({"message": "user not found."}), 400
+            return jsonify({"message": "User not found."}), 400
     except Exception as e:
         return jsonify(str(e)), 400
     
@@ -61,13 +61,13 @@ def delete_user(user_id):
             if current_user._id == user["userID"]:
                 try: 
                     db.User.delete_one({"_id": user_id})
-                    return jsonify({"message": "user deleted."}), 200
+                    return jsonify({"message": "User deleted."}), 200
                 except Exception as e:
                     return jsonify(str(e)), 400
             else:
-                return jsonify({"message": "Unauthorized to update this media."}), 403  
+                return jsonify({"message": "Unauthorized to delete this user."}), 403  
         else:
-            return jsonify({"message": "user not found."}), 400
+            return jsonify({"message": "User not found."}), 400
     except Exception as e:
         return jsonify(str(e)), 400
 
