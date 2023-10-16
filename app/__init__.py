@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_login import LoginManager
 from .db import db, create_collections, insert_user, insert_category
+from bson.objectid import ObjectId
 
 def create_app():
     app = Flask(__name__)
@@ -26,12 +27,16 @@ def create_app():
     app.register_blueprint(post, url_prefix='/posts')
     app.register_blueprint(user, url_prefix='/users')
 
+    @app.route('/')
+    def home():
+        return "Welcome to the home page!"
+
     login_manager = LoginManager()
     login_manager.login_view = 'auth.login'
     login_manager.init_app(app)
 
     @login_manager.user_loader
     def load_user(id):
-        return db.User.find()
+        return db.User.find_one({"_id": ObjectId(id)})
 
     return app
