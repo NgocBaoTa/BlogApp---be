@@ -1,0 +1,1042 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.controllers.auth_controller",
+        "description": "app.controllers.auth_controller",
+        "peekOfCode": "def login():\n    email = request.json[\"email\"]\n    password = request.json[\"password\"]\n    user = db.User.find({\"email\": email})\n    if user:\n        if check_password_hash(user.password, password):\n            login_user(user, remember=True)\n            return jsonify({\"message\": \"Login successfully!\"}), 200\n        else:\n            return jsonify({\"message\": \"Incorrect email or password!\"}), 400",
+        "detail": "app.controllers.auth_controller",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "app.controllers.auth_controller",
+        "description": "app.controllers.auth_controller",
+        "peekOfCode": "def logout():\n    logout_user()\n    return jsonify({\"message\": \"Logout successfully!\"}), 200\n@auth.route('/register', methods=['POST'])\ndef register():\n    email = request.json['email']\n    password = request.json['password']\n    user = db.User.find({\"email\": email})\n    if user:\n        return jsonify({\"message\": \"User already existed.\"}), 400",
+        "detail": "app.controllers.auth_controller",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.controllers.auth_controller",
+        "description": "app.controllers.auth_controller",
+        "peekOfCode": "def register():\n    email = request.json['email']\n    password = request.json['password']\n    user = db.User.find({\"email\": email})\n    if user:\n        return jsonify({\"message\": \"User already existed.\"}), 400\n    else:\n        new_user = {\n            \"username\": request.json['username'],\n            \"email\": email,",
+        "detail": "app.controllers.auth_controller",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 5,
+        "importPath": "app.controllers.auth_controller",
+        "description": "app.controllers.auth_controller",
+        "peekOfCode": "auth = Blueprint('auth', __name__)\nload_dotenv(find_dotenv())\nhash_password_string = os.environ.get('HASH_PWD_METHOD')\n@auth.route('/login', methods=['POST'])\ndef login():\n    email = request.json[\"email\"]\n    password = request.json[\"password\"]\n    user = db.User.find({\"email\": email})\n    if user:\n        if check_password_hash(user.password, password):",
+        "detail": "app.controllers.auth_controller",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password_string",
+        "kind": 5,
+        "importPath": "app.controllers.auth_controller",
+        "description": "app.controllers.auth_controller",
+        "peekOfCode": "hash_password_string = os.environ.get('HASH_PWD_METHOD')\n@auth.route('/login', methods=['POST'])\ndef login():\n    email = request.json[\"email\"]\n    password = request.json[\"password\"]\n    user = db.User.find({\"email\": email})\n    if user:\n        if check_password_hash(user.password, password):\n            login_user(user, remember=True)\n            return jsonify({\"message\": \"Login successfully!\"}), 200",
+        "detail": "app.controllers.auth_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_categories",
+        "kind": 2,
+        "importPath": "app.controllers.category_controller",
+        "description": "app.controllers.category_controller",
+        "peekOfCode": "def get_categories():\n    try:   \n        cates = db.Category.find()\n        return jsonify(cates), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@category.route('/<int:category_id>', methods=['GET'])\ndef get_category_by_id(category_id):\n    try:   \n        cate = db.Category.find_one({\"_id\": ObjectId(category_id)})",
+        "detail": "app.controllers.category_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_category_by_id",
+        "kind": 2,
+        "importPath": "app.controllers.category_controller",
+        "description": "app.controllers.category_controller",
+        "peekOfCode": "def get_category_by_id(category_id):\n    try:   \n        cate = db.Category.find_one({\"_id\": ObjectId(category_id)})\n        if cate:\n            return jsonify(cate), 200\n        else:\n            return jsonify({\"message\": \"Category not found.\"}), 400\n    except Exception as e:\n        return jsonify(str(e)), 400\n@category.route('/', methods=[\"POST\"])",
+        "detail": "app.controllers.category_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_category",
+        "kind": 2,
+        "importPath": "app.controllers.category_controller",
+        "description": "app.controllers.category_controller",
+        "peekOfCode": "def create_category():\n    if current_user.userType == \"admin\":\n        try:\n            inserted_id = db.Category.insert_one(request.json).inserted_id\n            return jsonify(db.Category.find_one({\"_id\": ObjectId(inserted_id)})), 200 \n        except Exception as e:\n            return jsonify(str(e)), 400 \n    else:\n        return jsonify({\"message\": \"Unauthorized to update this media.\"}), 403  \n@category.route('/<int:category_id>', methods=['PUT'])",
+        "detail": "app.controllers.category_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_category",
+        "kind": 2,
+        "importPath": "app.controllers.category_controller",
+        "description": "app.controllers.category_controller",
+        "peekOfCode": "def update_category(category_id):\n    if current_user.userType == 'admin':\n        cate_id = ObjectId(category_id)\n        try:   \n            cate = db.Category.find_one({\"_id\": cate_id})\n            if cate:\n                try: \n                    db.Category.update_one({\"_id\": cate_id}, request.json)\n                    return jsonify(db.Category.find_one({\"_id\": cate_id})), 200\n                except Exception as e:",
+        "detail": "app.controllers.category_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_category",
+        "kind": 2,
+        "importPath": "app.controllers.category_controller",
+        "description": "app.controllers.category_controller",
+        "peekOfCode": "def delete_category(category_id):\n    if current_user.userType == 'admin':\n        cate_id = ObjectId(category_id)\n        try:   \n            cate = db.Category.find_one({\"_id\": cate_id})\n            if cate:\n                try: \n                    db.Category.delete_one({\"_id\": cate_id})\n                    return jsonify({\"message\": \"Category deleted.\"}), 200\n                except Exception as e:",
+        "detail": "app.controllers.category_controller",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "kind": 5,
+        "importPath": "app.controllers.category_controller",
+        "description": "app.controllers.category_controller",
+        "peekOfCode": "category = Blueprint('category', __name__)\n@category.route('/', methods=['GET'])\ndef get_categories():\n    try:   \n        cates = db.Category.find()\n        return jsonify(cates), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@category.route('/<int:category_id>', methods=['GET'])\ndef get_category_by_id(category_id):",
+        "detail": "app.controllers.category_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_comments",
+        "kind": 2,
+        "importPath": "app.controllers.comment_controller",
+        "description": "app.controllers.comment_controller",
+        "peekOfCode": "def get_comments():\n    try:   \n        comments = db.Comment.find()\n        return jsonify(comments), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@comment.route('/<int:comment_id>', methods=['GET'])\ndef get_comment_by_id(comment_id):\n    try:   \n        comment = db.Comment.find_one({\"_id\": ObjectId(comment_id)})",
+        "detail": "app.controllers.comment_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_comment_by_id",
+        "kind": 2,
+        "importPath": "app.controllers.comment_controller",
+        "description": "app.controllers.comment_controller",
+        "peekOfCode": "def get_comment_by_id(comment_id):\n    try:   \n        comment = db.Comment.find_one({\"_id\": ObjectId(comment_id)})\n        if comment:\n            return jsonify(comment), 200\n        else:\n            return jsonify({\"message\": \"comment not found.\"}), 400\n    except Exception as e:\n        return jsonify(str(e)), 400\n@comment.route('/', methods=[\"POST\"])",
+        "detail": "app.controllers.comment_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_comment",
+        "kind": 2,
+        "importPath": "app.controllers.comment_controller",
+        "description": "app.controllers.comment_controller",
+        "peekOfCode": "def create_comment():\n    try:\n        inserted_id = db.Comment.insert_one(request.json).inserted_id\n        return jsonify(db.Comment.find_one({\"_id\": ObjectId(inserted_id)})), 200 \n    except Exception as e:\n        return jsonify(str(e)), 400 \n@comment.route('/<int:comment_id>', methods=['PUT'])\n@login_required\ndef update_comment(comment_id):\n    comment_id = ObjectId(comment_id)",
+        "detail": "app.controllers.comment_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_comment",
+        "kind": 2,
+        "importPath": "app.controllers.comment_controller",
+        "description": "app.controllers.comment_controller",
+        "peekOfCode": "def update_comment(comment_id):\n    comment_id = ObjectId(comment_id)\n    try:   \n        comment = db.Comment.find_one({\"_id\": comment_id})\n        if comment:\n            if current_user._id == comment[\"userID\"]:\n                try: \n                    db.Comment.update_one({\"_id\": comment_id}, request.json)\n                    return jsonify(db.Comment.find_one({\"_id\": comment_id})), 200\n                except Exception as e:",
+        "detail": "app.controllers.comment_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_comment",
+        "kind": 2,
+        "importPath": "app.controllers.comment_controller",
+        "description": "app.controllers.comment_controller",
+        "peekOfCode": "def delete_comment(comment_id):\n    comment_id = ObjectId(comment_id)\n    try:   \n        comment = db.Comment.find_one({\"_id\": comment_id})\n        if comment:\n            if current_user._id == comment[\"userID\"] or current_user.userType == 'admin':\n                try: \n                    db.Comment.delete_one({\"_id\": comment_id})\n                    return jsonify({\"message\": \"comment deleted.\"}), 200\n                except Exception as e:",
+        "detail": "app.controllers.comment_controller",
+        "documentation": {}
+    },
+    {
+        "label": "comment",
+        "kind": 5,
+        "importPath": "app.controllers.comment_controller",
+        "description": "app.controllers.comment_controller",
+        "peekOfCode": "comment = Blueprint('comment', __name__)\n@comment.route('/', methods=['GET'])\ndef get_comments():\n    try:   \n        comments = db.Comment.find()\n        return jsonify(comments), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@comment.route('/<int:comment_id>', methods=['GET'])\ndef get_comment_by_id(comment_id):",
+        "detail": "app.controllers.comment_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_medias",
+        "kind": 2,
+        "importPath": "app.controllers.media_controller",
+        "description": "app.controllers.media_controller",
+        "peekOfCode": "def get_medias():\n    try:   \n        medias = db.Media.find()\n        return jsonify(medias), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@media.route('/<int:media_id>', methods=['GET'])\ndef get_media_by_id(media_id):\n    try:   \n        media = db.Media.find_one({\"_id\": ObjectId(media_id)})",
+        "detail": "app.controllers.media_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_media_by_id",
+        "kind": 2,
+        "importPath": "app.controllers.media_controller",
+        "description": "app.controllers.media_controller",
+        "peekOfCode": "def get_media_by_id(media_id):\n    try:   \n        media = db.Media.find_one({\"_id\": ObjectId(media_id)})\n        if media:\n            return jsonify(media), 200\n        else:\n            return jsonify({\"message\": \"Media not found.\"}), 400\n    except Exception as e:\n        return jsonify(str(e)), 400\n@media.route('/', methods=[\"POST\"])",
+        "detail": "app.controllers.media_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_media",
+        "kind": 2,
+        "importPath": "app.controllers.media_controller",
+        "description": "app.controllers.media_controller",
+        "peekOfCode": "def create_media():\n    try:\n        inserted_id = db.Media.insert_one(request.json).inserted_id\n        return jsonify(db.Media.find_one({\"_id\": ObjectId(inserted_id)})), 200 \n    except Exception as e:\n        return jsonify(str(e)), 400 \n@media.route('/<int:media_id>', methods=['PUT'])\n@login_required\ndef update_media(media_id):\n    media_id = ObjectId(media_id)",
+        "detail": "app.controllers.media_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_media",
+        "kind": 2,
+        "importPath": "app.controllers.media_controller",
+        "description": "app.controllers.media_controller",
+        "peekOfCode": "def update_media(media_id):\n    media_id = ObjectId(media_id)\n    try:   \n        media = db.Media.find_one({\"_id\": media_id})\n        if media:\n            try:\n                post = db.Post.find_one({\"_id\": media['postID']})\n                if post:\n                    author = post['authorID']\n                    if current_user._id == author or current_user.userType == 'admin':",
+        "detail": "app.controllers.media_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_media",
+        "kind": 2,
+        "importPath": "app.controllers.media_controller",
+        "description": "app.controllers.media_controller",
+        "peekOfCode": "def delete_media(media_id):\n    media_id = ObjectId(media_id)\n    try:   \n        media = db.media.find_one({\"_id\": media_id})\n        if media:\n            try: \n                post = db.Post.find_one({\"_id\": media['postID']})\n                if post: \n                    author = post['authorID']\n                    if current_user._id == author or current_user.userType == 'admin':",
+        "detail": "app.controllers.media_controller",
+        "documentation": {}
+    },
+    {
+        "label": "media",
+        "kind": 5,
+        "importPath": "app.controllers.media_controller",
+        "description": "app.controllers.media_controller",
+        "peekOfCode": "media = Blueprint('media', __name__)\n@media.route('/', methods=['GET'])\ndef get_medias():\n    try:   \n        medias = db.Media.find()\n        return jsonify(medias), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@media.route('/<int:media_id>', methods=['GET'])\ndef get_media_by_id(media_id):",
+        "detail": "app.controllers.media_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_notifications",
+        "kind": 2,
+        "importPath": "app.controllers.notification_controller",
+        "description": "app.controllers.notification_controller",
+        "peekOfCode": "def get_notifications():\n    try:   \n        user = db.User.aggregate([\n            {\n                \"$match\": {\n                    \"_id\": current_user._id\n                }\n            },\n            {\n                \"$lookup\": {",
+        "detail": "app.controllers.notification_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_notification_by_id",
+        "kind": 2,
+        "importPath": "app.controllers.notification_controller",
+        "description": "app.controllers.notification_controller",
+        "peekOfCode": "def get_notification_by_id(notification_id):\n    try:   \n        user = db.User.aggregate([\n            {\n                \"$match\": {\n                    \"_id\": current_user._id\n                }\n            },\n            {\n                \"$lookup\": {",
+        "detail": "app.controllers.notification_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "kind": 2,
+        "importPath": "app.controllers.notification_controller",
+        "description": "app.controllers.notification_controller",
+        "peekOfCode": "def create_notification():\n    try:\n        inserted_id = db.Notification.insert_one(request.json).inserted_id\n        return jsonify(db.Notification.find_one({\"_id\": ObjectId(inserted_id)})), 200 \n    except Exception as e:\n        return jsonify(str(e)), 400 \n@notification.route('/<int:notification_id>', methods=['DELETE'])\n@login_required\ndef delete_notification(notification_id):\n    notification_id = ObjectId(notification_id)",
+        "detail": "app.controllers.notification_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_notification",
+        "kind": 2,
+        "importPath": "app.controllers.notification_controller",
+        "description": "app.controllers.notification_controller",
+        "peekOfCode": "def delete_notification(notification_id):\n    notification_id = ObjectId(notification_id)\n    try:   \n        notification = db.Notification.find_one({\"_id\": notification_id})\n        if notification:\n            if current_user._id == notification[\"userID\"]:\n                try: \n                    db.Notification.delete_one({\"_id\": notification_id})\n                    return jsonify({\"message\": \"Notification deleted.\"}), 200\n                except Exception as e:",
+        "detail": "app.controllers.notification_controller",
+        "documentation": {}
+    },
+    {
+        "label": "notification",
+        "kind": 5,
+        "importPath": "app.controllers.notification_controller",
+        "description": "app.controllers.notification_controller",
+        "peekOfCode": "notification = Blueprint('notification', __name__)\n@notification.route('/', methods=['GET'])\n@login_required\ndef get_notifications():\n    try:   \n        user = db.User.aggregate([\n            {\n                \"$match\": {\n                    \"_id\": current_user._id\n                }",
+        "detail": "app.controllers.notification_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_posts",
+        "kind": 2,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "def get_posts():\n    try:   \n        posts = db.Post.find()\n        return jsonify(posts), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@post.route('/<int:post_id>', methods=['GET'])\ndef get_post_by_id(post_id):\n    try:   \n        post = db.Post.find_one({\"_id\": ObjectId(post_id)})",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_post_by_id",
+        "kind": 2,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "def get_post_by_id(post_id):\n    try:   \n        post = db.Post.find_one({\"_id\": ObjectId(post_id)})\n        if post:\n            return jsonify(post), 200\n        else:\n            return jsonify({\"message\": \"Post not found.\"}), 400\n    except Exception as e:\n        return jsonify(str(e)), 400\n@post.route('/', methods=[\"POST\"])",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_post",
+        "kind": 2,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "def create_post():\n    pass\n@post.route('/<int:post_id>', methods=['PUT'])\n@login_required\ndef update_post(post_id):\n    pass\n@post.route('/<int:post_id>', methods=['DELETE'])\n@login_required\ndef delete_post(post_id):\n    pass",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_post",
+        "kind": 2,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "def update_post(post_id):\n    pass\n@post.route('/<int:post_id>', methods=['DELETE'])\n@login_required\ndef delete_post(post_id):\n    pass\n@post.route('/', methods=['GET'])\ndef search_post():\n    search_text = request.args.get('searchText', '')\n    if len(search_text) == 0:",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post",
+        "kind": 2,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "def delete_post(post_id):\n    pass\n@post.route('/', methods=['GET'])\ndef search_post():\n    search_text = request.args.get('searchText', '')\n    if len(search_text) == 0:\n        return None\n    else:\n        unique_posts = {}\n        posts = list(db.Post.find({",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "search_post",
+        "kind": 2,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "def search_post():\n    search_text = request.args.get('searchText', '')\n    if len(search_text) == 0:\n        return None\n    else:\n        unique_posts = {}\n        posts = list(db.Post.find({\n            \"postTitle\": {\"$regex\": search_text, \"$options\": \"i\"}\n        }))\n        cates = list(db.Category.find({",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "post",
+        "kind": 5,
+        "importPath": "app.controllers.post_controller",
+        "description": "app.controllers.post_controller",
+        "peekOfCode": "post = Blueprint('post', __name__)\n@post.route('/', methods=['GET'])\ndef get_posts():\n    try:   \n        posts = db.Post.find()\n        return jsonify(posts), 200\n    except Exception as e:\n        return jsonify(str(e)), 400\n@post.route('/<int:post_id>', methods=['GET'])\ndef get_post_by_id(post_id):",
+        "detail": "app.controllers.post_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def get_users():\n    if current_user.userType == 'admin':\n        try:   \n            users = db.User.find()\n            return jsonify(users), 200\n        except Exception as e:\n            return jsonify(str(e)), 400\n    else: \n        return jsonify({\"message\": \"Unauthorized to update this media.\"}), 403\n@user.route('/<int:user_id>', methods=['GET'])",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def get_user_by_id(user_id):\n    try:   \n        user = db.User.find_one({\"_id\": ObjectId(user_id)})\n        if user:\n            return jsonify(user), 200\n        else:\n            return jsonify({\"message\": \"user not found.\"}), 400\n    except Exception as e:\n        return jsonify(str(e)), 400\n@user.route('/<int:user_id>', methods=['PUT'])",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def update_user(user_id):\n    user_id = ObjectId(user_id)\n    try:   \n        user = db.User.find_one({\"_id\": user_id})\n        if user:\n            if current_user._id == user[\"userID\"]:\n                try: \n                    db.User.update_one({\"_id\": user_id}, request.json)\n                    return jsonify(db.User.find_one({\"_id\": user_id})), 200\n                except Exception as e:",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def delete_user(user_id):\n    user_id = ObjectId(user_id)\n    try:   \n        user = db.User.find_one({\"_id\": user_id})\n        if user:\n            if current_user._id == user[\"userID\"]:\n                try: \n                    db.User.delete_one({\"_id\": user_id})\n                    return jsonify({\"message\": \"user deleted.\"}), 200\n                except Exception as e:",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "user = Blueprint('user', __name__)\n@user.route('/', methods=['GET'])\n@login_required\ndef get_users():\n    if current_user.userType == 'admin':\n        try:   \n            users = db.User.find()\n            return jsonify(users), 200\n        except Exception as e:\n            return jsonify(str(e)), 400",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_category_collection",
+        "kind": 2,
+        "importPath": "app.models.Category",
+        "description": "app.models.Category",
+        "peekOfCode": "def create_category_collection():\n    category_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"categoryName\", \"createAt\", \"updateAt\"],\n            \"properties\": {\n                \"categoryName\": {\n                    \"bsonType\": \"string\",\n                    \"description\": \"must be a string and is required\" \n                },",
+        "detail": "app.models.Category",
+        "documentation": {}
+    },
+    {
+        "label": "create_comment_collection",
+        "kind": 2,
+        "importPath": "app.models.Comment",
+        "description": "app.models.Comment",
+        "peekOfCode": "def create_comment_collection():\n    comment_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"userID\", \"postID\", \"message\", \"replies\", \"createAt\", \"updateAt\"],\n            \"properties\": {\n                \"userID\": {\n                    \"bsonType\": \"objectId\",\n                    \"description\": \"must be an objectId and is required\"\n                },",
+        "detail": "app.models.Comment",
+        "documentation": {}
+    },
+    {
+        "label": "create_media_collection",
+        "kind": 2,
+        "importPath": "app.models.Media",
+        "description": "app.models.Media",
+        "peekOfCode": "def create_media_collection():\n    media_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"postID\", \"mediaType\", \"mediaUrl\", \"size\"],\n            \"properties\": {\n                \"postID\": {\n                    \"bsonType\": \"objectId\",\n                    \"description\": \"must be an objectId and is required\"\n                },",
+        "detail": "app.models.Media",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification_collection",
+        "kind": 2,
+        "importPath": "app.models.Notification",
+        "description": "app.models.Notification",
+        "peekOfCode": "def create_notification_collection():\n    notification_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"notiType\", \"postID\", \"userID\", \"status\", \"createAt\"],\n            \"properties\": {\n                \"notiType\": {\n                    \"bsonType\": \"string\",\n                    \"enum\": [ \"reply\", \"comment\", \"approve\", \"review\", \"decline\"],\n                    \"description\": \"must be a string and is required\"",
+        "detail": "app.models.Notification",
+        "documentation": {}
+    },
+    {
+        "label": "create_post_collection",
+        "kind": 2,
+        "importPath": "app.models.Post",
+        "description": "app.models.Post",
+        "peekOfCode": "def create_post_collection():\n    post_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"categoryID\", \"authorID\", \"postTitle\", \"postContent\", \"postType\", \"comments\", \"createAt\", \"updateAt\"],\n            \"properties\": {\n                \"categoryID\": {\n                    \"bsonType\": \"objectId\",\n                    \"description\": \"must be an objectId and is required\"\n                },",
+        "detail": "app.models.Post",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_collection",
+        "kind": 2,
+        "importPath": "app.models.User",
+        "description": "app.models.User",
+        "peekOfCode": "def create_user_collection():\n    user_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"username\", \"email\", \"password\", \"userType\", \"avatar\", \"description\", \"posts\", \"notifications\", \"createAt\", \"updateAt\"],\n            \"properties\": {\n                \"username\": {\n                    \"bsonType\": \"string\",\n                    \"description\": \"must be an string and is required\"\n                },",
+        "detail": "app.models.User",
+        "documentation": {}
+    },
+    {
+        "label": "create_viewer_collection",
+        "kind": 2,
+        "importPath": "app.models.Viewer",
+        "description": "app.models.Viewer",
+        "peekOfCode": "def create_viewer_collection():\n    viewer_validator = {\n        \"$jsonSchema\": {\n            \"bsonType\": \"object\",\n            \"required\": [\"username\", \"email\"],\n            \"properties\": {\n                \"username\": {\n                    \"bsonType\": \"string\",\n                    \"description\": \"must be a string and is required\" \n                },",
+        "detail": "app.models.Viewer",
+        "documentation": {}
+    },
+    {
+        "label": "create_collections",
+        "kind": 2,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "def create_collections(): \n    create_category_collection()\n    create_comment_collection()\n    create_media_collection()\n    create_notification_collection()\n    create_post_collection()\n    create_user_collection()\n    create_viewer_collection()\ndef insert_category():\n    categories = [",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "insert_category",
+        "kind": 2,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "def insert_category():\n    categories = [\n        {\n            \"categoryName\": \"Breakfast\",\n            \"createAt\": datetime.now(),\n            \"updateAt\": datetime.now()\n        },\n        {\n            \"categoryName\": \"Bread\",\n            \"createAt\": datetime.now(),",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "insert_user",
+        "kind": 2,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "def insert_user():\n    users = [\n        {\n            \"username\": \"admin\",\n            \"email\": \"admin@gmail.com\",\n            \"password\": generate_password_hash(\"password\", method=hash_password_string),\n            \"userType\": \"admin\",\n            \"avatar\": \"https://static.vecteezy.com/system/resources/previews/009/292/244/original/default-avatar-icon-of-social-media-user-vector.jpg\",\n            \"description\": \"This is admin of the website.\",\n            \"notifications\": [],",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password_string",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "hash_password_string = os.environ.get('HASH_PWD_METHOD')\nconnection_string = os.environ.get('MONGODB_URI')\nclient = MongoClient(connection_string)  \ndb = client.Blog \nfrom .models.Category import create_category_collection\nfrom .models.Comment import create_comment_collection\nfrom .models.Media import create_media_collection\nfrom .models.Notification import create_notification_collection\nfrom .models.Post import create_post_collection\nfrom .models.User import create_user_collection",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection_string",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "connection_string = os.environ.get('MONGODB_URI')\nclient = MongoClient(connection_string)  \ndb = client.Blog \nfrom .models.Category import create_category_collection\nfrom .models.Comment import create_comment_collection\nfrom .models.Media import create_media_collection\nfrom .models.Notification import create_notification_collection\nfrom .models.Post import create_post_collection\nfrom .models.User import create_user_collection\nfrom .models.Viewer import create_viewer_collection",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "client = MongoClient(connection_string)  \ndb = client.Blog \nfrom .models.Category import create_category_collection\nfrom .models.Comment import create_comment_collection\nfrom .models.Media import create_media_collection\nfrom .models.Notification import create_notification_collection\nfrom .models.Post import create_post_collection\nfrom .models.User import create_user_collection\nfrom .models.Viewer import create_viewer_collection\ndef create_collections(): ",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "db = client.Blog \nfrom .models.Category import create_category_collection\nfrom .models.Comment import create_comment_collection\nfrom .models.Media import create_media_collection\nfrom .models.Notification import create_notification_collection\nfrom .models.Post import create_post_collection\nfrom .models.User import create_user_collection\nfrom .models.Viewer import create_viewer_collection\ndef create_collections(): \n    create_category_collection()",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = create_app()\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "main",
+        "documentation": {}
+    }
+]
